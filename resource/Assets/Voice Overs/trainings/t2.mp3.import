@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c6op0psv0lj15"
+path="res://.godot/imported/t2.mp3-d1d169662df2a6755f9654b65a92063f.mp3str"
+
+[deps]
+
+source_file="res://resource/Assets/Voice Overs/trainings/t2.mp3"
+dest_files=["res://.godot/imported/t2.mp3-d1d169662df2a6755f9654b65a92063f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://wych21ks1lrw"
+path="res://.godot/imported/medieval-irish-celtic-ireland-music-311693.mp3-644a38227e257bdab904fe6b3689270a.mp3str"
+
+[deps]
+
+source_file="res://resource/Assets/Audio Assets/Music/medieval-irish-celtic-ireland-music-311693.mp3"
+dest_files=["res://.godot/imported/medieval-irish-celtic-ireland-music-311693.mp3-644a38227e257bdab904fe6b3689270a.mp3str"]
+
+[params]
+
+loop=true
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

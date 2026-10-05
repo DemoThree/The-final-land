@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://s2etmbd5stqf"
+path="res://.godot/imported/cutting-wood.mp3-5e3380adc1d80259c872ad4717ef6efc.mp3str"
+
+[deps]
+
+source_file="res://resource/Assets/Audio Assets/cutting-wood.mp3"
+dest_files=["res://.godot/imported/cutting-wood.mp3-5e3380adc1d80259c872ad4717ef6efc.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

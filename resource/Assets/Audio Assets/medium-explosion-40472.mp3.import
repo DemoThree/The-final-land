@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dt4glqxqmp0ie"
+path="res://.godot/imported/medium-explosion-40472.mp3-a9c01294c53ddb34936f58c9201150f7.mp3str"
+
+[deps]
+
+source_file="res://resource/Assets/Audio Assets/medium-explosion-40472.mp3"
+dest_files=["res://.godot/imported/medium-explosion-40472.mp3-a9c01294c53ddb34936f58c9201150f7.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

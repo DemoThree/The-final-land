@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://os1f2pbou7df"
+path="res://.godot/imported/sheep1.mp3-59fed2db89e06c424dc90a627f155708.mp3str"
+
+[deps]
+
+source_file="res://resource/Assets/Audio Assets/sheep1.mp3"
+dest_files=["res://.godot/imported/sheep1.mp3-59fed2db89e06c424dc90a627f155708.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

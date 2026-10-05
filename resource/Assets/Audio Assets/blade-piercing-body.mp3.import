@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://r5vtmu66y3j2"
+path="res://.godot/imported/blade-piercing-body.mp3-dcce150274e8e7976f4a87d9722a4565.mp3str"
+
+[deps]
+
+source_file="res://resource/Assets/Audio Assets/blade-piercing-body.mp3"
+dest_files=["res://.godot/imported/blade-piercing-body.mp3-dcce150274e8e7976f4a87d9722a4565.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b8iyevfbjmwsc"
+path="res://.godot/imported/collapse.mp3-aa4c5f3c938d765fedd92dc080807524.mp3str"
+
+[deps]
+
+source_file="res://resource/Assets/Audio Assets/collapse.mp3"
+dest_files=["res://.godot/imported/collapse.mp3-aa4c5f3c938d765fedd92dc080807524.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

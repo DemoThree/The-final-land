@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cgwl36q68p1r7"
+path="res://.godot/imported/t1.mp3-c7cc2177a71747fba3d613c137a05c92.mp3str"
+
+[deps]
+
+source_file="res://resource/Assets/Voice Overs/trainings/t1.mp3"
+dest_files=["res://.godot/imported/t1.mp3-c7cc2177a71747fba3d613c137a05c92.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

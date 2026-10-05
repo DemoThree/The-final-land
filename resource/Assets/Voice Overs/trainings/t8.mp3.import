@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bdv1r08jsxo7c"
+path="res://.godot/imported/t8.mp3-db643badef87102ce19eba3d72d19bff.mp3str"
+
+[deps]
+
+source_file="res://resource/Assets/Voice Overs/trainings/t8.mp3"
+dest_files=["res://.godot/imported/t8.mp3-db643badef87102ce19eba3d72d19bff.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

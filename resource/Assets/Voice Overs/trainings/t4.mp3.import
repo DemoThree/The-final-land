@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dukelueg3fnmo"
+path="res://.godot/imported/t4.mp3-93a65ca1e5caa213e1da162aa92825a1.mp3str"
+
+[deps]
+
+source_file="res://resource/Assets/Voice Overs/trainings/t4.mp3"
+dest_files=["res://.godot/imported/t4.mp3-93a65ca1e5caa213e1da162aa92825a1.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

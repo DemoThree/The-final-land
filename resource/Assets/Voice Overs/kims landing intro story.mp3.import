@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://5njc40re2f4b"
+path="res://.godot/imported/kims landing intro story.mp3-9728b60ba1d76de4c2fb882b1b5831e6.mp3str"
+
+[deps]
+
+source_file="res://resource/Assets/Voice Overs/kims landing intro story.mp3"
+dest_files=["res://.godot/imported/kims landing intro story.mp3-9728b60ba1d76de4c2fb882b1b5831e6.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

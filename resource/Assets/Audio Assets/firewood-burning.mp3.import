@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dsy7qadl7k123"
+path="res://.godot/imported/firewood-burning.mp3-6c67b3d7d38fb2d278cdf510beddcd13.mp3str"
+
+[deps]
+
+source_file="res://resource/Assets/Audio Assets/firewood-burning.mp3"
+dest_files=["res://.godot/imported/firewood-burning.mp3-6c67b3d7d38fb2d278cdf510beddcd13.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dm427kbbnf854"
+path="res://.godot/imported/t5.mp3-75d7b3f2fdaf6a3183edb5c7075fbcf3.mp3str"
+
+[deps]
+
+source_file="res://resource/Assets/Voice Overs/trainings/t5.mp3"
+dest_files=["res://.godot/imported/t5.mp3-75d7b3f2fdaf6a3183edb5c7075fbcf3.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
