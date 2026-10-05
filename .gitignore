@@ -1,6 +1,33 @@
 # Godot 4+ specific ignores
 .godot/
 /android/
+/addons/
+
+# Binary media assets — not committed
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.bmp
+*.gif
+*.svg
+*.svg.import
+*.wav
+*.mp3
+*.ogg
+*.flac
+*.glb
+*.gltf
+*.fbx
+*.obj
+*.blend
+*.ttf
+*.otf
+*.woff
+*.woff2
 
 # Claude Code local settings
 .claude/
+
+# Local file we want to keep on disk but not commit
+/godot-ai-LICENSE.txt
